@@ -4,6 +4,7 @@ This repository is dedicated to my daily challenge of implementing different mac
 Algorithms
 
 Below is a list of the algorithms I have implemented so far. Each algorithm has its own directory containing the implementation.
+
     Linear Regression
     Logistic Regression
     K-Nearest Neighbors (KNN)
@@ -14,5 +15,7 @@ Below is a list of the algorithms I have implemented so far. Each algorithm has 
     Principal Component Analysis (PCA)
     Neural Networks
     Gradient Boosting
+
+Note: This list will be updated daily as new algorithms are added.
 
 Note: This list will be updated daily as new algorithms are added.
