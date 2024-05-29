@@ -1,4 +1,4 @@
-Introduction
+#Introduction
 
 This repository is dedicated to my daily challenge of implementing different machine learning algorithms. Each day, I will choose an algorithm, study it, and create a Python implementation from scratch. This challenge aims to deepen my understanding of various machine learning models and techniques.
 Algorithms
